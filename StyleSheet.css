@@ -1,0 +1,95 @@
+
+.center{
+    text-align: center;
+    margin:auto;
+    }
+    h1{
+        font-size: 80px;
+        margin-top:0;
+        color: #2F5D62;
+        font-family: 'Abril Fatface', cursive;
+        margin-bottom: 0;
+    }
+    h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color:#5E8B7E;
+  font-weight:normal;
+  padding-bottom: 10px;
+    }
+    body{
+    margin:0;
+    padding:0;
+    background-color: #A7C4BC;
+    text-align: center;
+    /*background: linear-gradient(rgba(0,0,50,0.5),rgba(0,0,50,0.5)),url(pic1.jpg);*/
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
+    
+}
+.index-img{
+    margin-top: 10px;
+    width: 20%;
+  border-radius: 100%;
+}
+.login-img{
+    position:absolute;
+    
+    width:100%;
+  border-radius: 2%;
+    
+}
+
+.btn {
+  background: #5E8B7E;
+   background-image: -webkit-linear-gradient(top, #A7C4BC, #DFEEEA);
+   background-image: -moz-linear-gradient(top, #A7C4BC, #DFEEEA);
+   background-image: -ms-linear-gradient(top, #A7C4BC, #DFEEEA);
+   background-image: -o-linear-gradient(top, #A7C4BC, #DFEEEA);
+   background-image: -webkit-gradient(to bottom, #A7C4BC, #DFEEEA);
+   -webkit-border-radius: 8px;
+   -moz-border-radius: 8px;
+   border-radius: 8px;
+   height: 0.5px;
+   line-height: 1px;
+   color: DFEEEA;
+   font-family: 'Montserrat', sans-serif;
+   width: 142px;
+   font-size: 20px;
+   font-weight: 100;
+   padding: 20px;
+   -webkit-box-shadow: 1px 1px 20px 0 #000000;
+   -moz-box-shadow: 1px 1px 20px 0 #000000;
+   box-shadow: 1px 1px 20px 0 #000000;
+   text-shadow: 1px 1px 20px #000000;
+   border: solid #DFEEEA 0.5px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.btn:hover {
+  border: solid #A7C4BC 1px;
+  background: #5E8B7E;
+  background-image: -webkit-linear-gradient(top, #A7C4BC, #DFEEEA);
+  background-image: -moz-linear-gradient(top, #A7C4BC, #DFEEEA);
+  background-image: -ms-linear-gradient(top, #A7C4BC, #DFEEEA);
+  background-image: -o-linear-gradient(top, #A7C4BC, #DFEEEA);
+  background-image: -webkit-gradient(to bottom, #A7C4BC, #DFEEEA);
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  text-decoration: none;
+}
+.home{
+    margin:0;
+    padding:0;
+    text-align: center;
+    background:url(home.jpg);
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
+}
+
